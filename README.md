@@ -1,3 +1,6 @@
+Erdos Institute Program: 
+-  [Python Prep]()
+-  [Data Visualization](https://github.com/TheErdosInstitute/data-viz)
 Programming Resources:
 -  [Lutz Learning Python 6E](https://learning-python.com/LP6E/)
 -  [Neet Code](https://neetcode.io/)
